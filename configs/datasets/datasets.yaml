@@ -1,0 +1,9 @@
+Custom:
+  csv_dir: "Custom-CSV"
+  image_dir: "Custom-data/preprocessed/"
+
+custom:
+  csv_dir: "Custom-CSV"
+  image_dir: "Custom-data/preprocessed/"
+
+
