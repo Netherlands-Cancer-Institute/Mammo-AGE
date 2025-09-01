@@ -1,4 +1,4 @@
-# backup.py
+# backup.py from https://github.com/xinwangxinwang/Backup_python_scripts
 import os
 import shutil
 import sys
