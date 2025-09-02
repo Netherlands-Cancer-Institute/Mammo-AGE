@@ -13,7 +13,7 @@ Furthermore, we applied the model specifically for downstream breast cancer diag
 Use [environment.yml](./environment.yml) to setup the environment.
 
 ```bash
-git clone git@github.com:xinwangxinwang/Mammo-AGE.git
+git clone git@github.com:Netherlands-Cancer-Institute/Mammo-AGE.git
 cd Mammo-AGE
 conda env create --name Mammo-AGE -f environment.yml
 conda activate Mammo-AGE
